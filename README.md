@@ -20,7 +20,6 @@ Feedback & Complaints: Submit issues or feedback digitally.
 Gamification: Earn points and rewards for participation.
 
 
-
 ---
 
 Technical Details:
@@ -41,7 +40,6 @@ App Size: ~21 MB (optimized for both Android and iOS)
 Tech Stack: Flutter (Dart) with SharedPreferences (local JSON-based storage), ready for SQLite integration
 
 Architecture: Clean modular design with reusable widgets and screens
-
 
 
 ---
